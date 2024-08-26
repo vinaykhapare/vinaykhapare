@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/khaparevinay" target="blank"><img src="https://img.shields.io/twitter/follow/khaparevinay?logo=twitter&style=for-the-badge" alt="khaparevinay" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,DSA**
-
-- 💬 Ask me about **C,C++,JavaScript**
 
 - 📫 How to reach me **vinaykhapare22@gmail.com**
 
