@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/khaparevinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaparevinay" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/vinay-khapare-b698602b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-khapare" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vinaykhapare/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" alt="vinaykhapare" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/vinaykhapare/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" alt="vinaykhapare" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
