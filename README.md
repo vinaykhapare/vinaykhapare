@@ -1,6 +1,6 @@
-<div align="center" >
-  <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
-</div>
+<!-- <div align="center" >
+<!--   <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
+<!-- </div> --> -->
 <h1 align="center">Hi 👋, I'm Vinay Khapare</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
