@@ -2,7 +2,7 @@
 <!--   <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
 <!-- </div> -->
 <h1 align="center">Hi 👋, I'm Vinay Khapare</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykhapare&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykhapare" /> </p>
 
